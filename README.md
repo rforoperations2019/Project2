@@ -1,6 +1,6 @@
 # Project 2: Building an interactive map with user inputs
 
-Due: 
+Due: 10/18
 
 To bring the entire course together students will create an App with an interactive map as the central focus.
 
